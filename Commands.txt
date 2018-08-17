@@ -1,4 +1,4 @@
-git init - создать новый репозитарий
+﻿git init - создать новый репозитарий
 git add file name - добавить файл в staging area
 git add * - добавить все файлы в staging area
 git committ -m "comment" - создать коммит всех изменений в staging area
@@ -11,4 +11,8 @@ cd "path" - перейти в директорию
 
 git clone адрес.git - скачать клон репозитория
 git remote add name_of_repositoriy URL.git - объявить что URL.git обозначается как name_of_repositoriy
-git push name_of_repositoriy master - обновить файлы в репозитории name_of_repositoriy 
+git push name_of_repositoriy master - обновить файлы в репозитории name_of_repositoriy
+git push -u name_of_repositoriy master - сделать то же самое + по умолчанию работаем с этим самым репозиторием 
+и дальше не надо прописывать name_of_repositoriy master
+git fetch - скачать с удаленного репозитария новые изменения
+git merge name_of_repositoriy/master - распаковать скачанные изменения
