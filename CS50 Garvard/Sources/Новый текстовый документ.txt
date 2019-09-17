@@ -1,0 +1,4 @@
+https://computer.howstuffworks.com/c39.htm
+http://cs50.tv/2015/fall/#about,sections
+https://study.cs50.net/ascii
+https://man.cs50.io/3/realloc
