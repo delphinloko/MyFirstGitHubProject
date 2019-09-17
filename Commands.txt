@@ -19,3 +19,5 @@ git push -u name_of_repositoriy master - сделать то же самое + �
 git fetch - скачать с удаленного репозитария новые изменения
 git merge name_of_repositoriy/master - распаковать скачанные изменения
 git pull name_of_repositoriy master - git fetch + git merge
+
+git rm -r foldername + git add * + git commit + git push - удалить папку
