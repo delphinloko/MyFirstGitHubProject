@@ -1,3 +1,3 @@
 Welcome to my FirstGitHubProject!
 
-Here are solutions of cs50 course.
+Here are solutions of CS50 course.
