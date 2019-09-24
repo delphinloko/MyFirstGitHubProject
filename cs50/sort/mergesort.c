@@ -1,3 +1,17 @@
+﻿/****************************************************************************
+ 
+* mergesort.c
+*
+ 
+* Provotorov Daniil
+* provotorov.d.i@gmail.com
+*
+ 
+* Realize algorithm of mergesort
+*
+ 
+***************************************************************************/
+
 #include <stdio.h>
 #include <cs50.h>
 #include <string.h>

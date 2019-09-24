@@ -1,3 +1,17 @@
+﻿/****************************************************************************
+ 
+* bleep.py
+*
+ 
+* Provotorov Daniil
+* provotorov.d.i@gmail.com
+*
+ 
+* Censor the string entered
+*
+ 
+***************************************************************************/
+
 from cs50 import get_string
 from sys import argv
 

@@ -1,3 +1,17 @@
+﻿/****************************************************************************
+ 
+* files.c
+*
+ 
+* Provotorov Daniil
+* provotorov.d.i@gmail.com
+*
+ 
+* Demonstrates loading data from file into hashtable and unloading it
+*
+ 
+***************************************************************************/
+
 #include <stdio.h>
 #include <cs50.h>
 #include <string.h>

@@ -1,3 +1,17 @@
+﻿/****************************************************************************
+ 
+* swap.c
+*
+ 
+* Provotorov Daniil
+* provotorov.d.i@gmail.com
+*
+ 
+* Demonstrates swap problem in c and neсesity of pointers
+*
+ 
+***************************************************************************/
+
 #include <stdio.h>
 
 void swap(int a, int b); //Прототип функции swap

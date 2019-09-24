@@ -1,3 +1,17 @@
+﻿/****************************************************************************
+ 
+* water.c
+*
+ 
+* Provotorov Daniil
+* provotorov.d.i@gmail.com
+*
+ 
+* Demostrates simple math operations
+*
+ 
+***************************************************************************/
+
 #include <stdio.h>
 #include <cs50.h>
 

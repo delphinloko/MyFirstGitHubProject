@@ -1,3 +1,17 @@
+/****************************************************************************
+ 
+* cash.c
+*
+ 
+* Provotorov Daniil
+* provotorov.d.i@gmail.com
+*
+ 
+* Count number of coins to change
+*
+ 
+***************************************************************************/
+
 #include <stdio.h>
 #include <cs50.h>
 #include <math.h>

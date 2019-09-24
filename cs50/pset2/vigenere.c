@@ -1,3 +1,17 @@
+﻿/****************************************************************************
+ 
+* vigenere.c
+*
+ 
+* Provotorov Daniil
+* provotorov.d.i@gmail.com
+*
+ 
+* Cipher text via vigenere cipher
+*
+ 
+***************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <cs50.h>

@@ -1,3 +1,17 @@
+﻿/****************************************************************************
+ 
+* crack.c
+*
+ 
+* Provotorov Daniil
+* provotorov.d.i@gmail.com
+*
+ 
+* Crack up to 5 signs password 
+*
+ 
+***************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <cs50.h>
