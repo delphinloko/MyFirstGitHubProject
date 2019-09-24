@@ -1,4 +1,0 @@
-Here are solutions of the fourth week.
-All lectures, notes and tasks are available here: https://docs.cs50.net/2019/x/psets/4/
-Version of Speller implements a hash table
-Only dictionary.c is written by me

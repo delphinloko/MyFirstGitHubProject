@@ -1,4 +1,0 @@
-My code is presented in:
-1. sheet.html
-2. form.html
-3. In application.py def post_form() and def get_sheet()

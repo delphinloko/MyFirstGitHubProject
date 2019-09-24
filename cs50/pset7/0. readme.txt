@@ -1,2 +1,0 @@
-Here are solutions of the seventh week.
-All lectures, notes and tasks are available here: https://docs.cs50.net/2019/x/psets/7

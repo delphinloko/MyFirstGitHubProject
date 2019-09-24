@@ -1,3 +1,0 @@
-My code is presented in:
-1. index.html
-2. helpers.py
